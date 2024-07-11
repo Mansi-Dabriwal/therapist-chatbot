@@ -1,4 +1,4 @@
-#Therapist Chatbot with Vector Embeddings and Pinecone
+# Therapist Chatbot with Vector Embeddings and Pinecone
 
 ## Overview
 This project implements a chatbot designed to assist therapists by storing therapist-patient conversations as vector embeddings in Pinecone for efficient retrieval. The chatbot leverages OpenAI's text-embedding-ada-002 model for embedding generation and utilizes Retrieval-Augmented Generation (RAG) for generating contextually accurate responses based on user queries.
